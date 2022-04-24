@@ -5,7 +5,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 26 anos e atualmente estou cursando ciências da computação, além de ter feito alguns cursos sobre Dart e Flutter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 27 anos e atualmente estou cursando ciências da computação, além de ter feito alguns cursos sobre Dart e Flutter.
 
 
 <br/>
