@@ -1,6 +1,14 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o Maydana</h1>
 
-<h3 align="center"> Um programador apaixonado por codar e atualmente estudando *POO, PHP8.1, SOLID, DDD, CQRS, & Event Source*. </h3>
+<h3 align="center"> Um programador apaixonado por codar e atualmente estudando</h3>
+
+  - POO
+  - PHP8.1
+  - SOLID
+  - DDD
+  - CQRS
+  - Event Source
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=19950512&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
 <br/>
