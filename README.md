@@ -3,7 +3,7 @@
 <h3 align="center"> Um programador apaixonado por codar e atualmente estudando</h3>
 
   - POO
-  - PHP8.1
+  - PHP8.2
   - SOLID
   - DDD
   - CQRS
