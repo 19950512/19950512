@@ -8,6 +8,8 @@
   - DDD
   - CQRS
   - Event Source
+  - RabbitMQ
+  - Docker compose
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=19950512&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
