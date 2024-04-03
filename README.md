@@ -3,7 +3,7 @@
 <h3 align="center"> Um programador apaixonado por codar e atualmente estudando</h3>
 
   - POO
-  - PHP8.2
+  - PHP8.3
   - SOLID
   - DDD
   - CQRS
@@ -15,7 +15,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 27 anos e atualmente estou cursando ciências da computação, além de ter feito alguns cursos sobre Dart e Flutter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 29 anos e adoro desenvolver soluções.
 
 
 <br/>
