@@ -15,7 +15,7 @@ function downloadImage(url, filename) {
 }
 
 // Função para processar as imagens e iniciar os downloads
-function downloadImagesFromCarousel() {
+window.baixar = f => {
     // Seleciona o elemento que contém as imagens
     const section = document.querySelector('section.main-carousel-container');
     
@@ -50,4 +50,4 @@ function downloadImagesFromCarousel() {
     });
 
     console.log('Iniciando o download das imagens...');
-}
+};
